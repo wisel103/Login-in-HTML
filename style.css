@@ -1,0 +1,60 @@
+body
+{
+	background: url(ecole.jpg)no-repeat;
+	webkit-background-size:100% 100%;
+	-moz-background-size:100% 100%;
+	-o-background-size:100% 100%;
+	background-size: 100%;
+}
+
+.tela
+{
+	background-color: #EBEBEB;
+	color: red;
+	width: 300px;
+	height: 400px;
+	margin:250px 0 0 480px; 
+	padding: 50px;
+	text-align: left;
+	border-radius: 30px;
+}
+
+.tela input
+{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	width: 85%;
+	padding: 5px;
+	border-radius: 20px;
+	color: blue;
+
+}
+
+.tela label
+{
+	display: block;
+	padding: 2px 10px 5px 5px;
+	font-size: 20px;
+	color: black;
+}
+
+.tela button 
+{
+	display: block;
+	margin:0px 0 0 115px;
+	font-size:15px;
+}
+.tela img
+{
+	display: block;
+	margin-top: 15px;
+	margin-left: 65px;
+	border: 0px solid #F6F4
+}
+.tela h1
+{
+	display: block;
+	color: black;
+	text-align: center;
+	margin-top:5px; 
+}
